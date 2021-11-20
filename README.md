@@ -1,6 +1,7 @@
 # WhatsappRaid
 ![изображение](https://user-images.githubusercontent.com/55328925/142739444-248e53aa-c489-4f3d-a966-fee985ebe0e9.png)
 
+Скрипт подготовлен специально для сайта https://pysoc.ru и <a href = "https://www.youtube.com/channel/UCIb8Y65gN-Pl7m7Dw7Lgb8A">Ютуб канала PyPro</a>
 # Русский
 Простой спам бот для WhatsApp на Python3. Работает с использованием Selenium
 <h4>Инструкция</h4>
